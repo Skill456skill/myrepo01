@@ -1,5 +1,5 @@
 
-<p align="center"><a href="#" target="_blank"><img src="https://e7.pngegg.com/pngimages/151/492/png-clipart-microsoft-visual-studio-visual-studio-code-team-foundation-server-visual-studio-application-lifecycle-management-microsoft-purple-violet.png" width="200"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" width="200"></a></p>
 
 <p align="center">
 <a href="#k"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
