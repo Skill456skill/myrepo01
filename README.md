@@ -1,5 +1,5 @@
 
-<p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="file:///C:/Users/EDUARDO/Desktop/Trabajo%20de%20clase%20grupo%2093/Trabajo%20en%20GIT/myrepo01/img/ddescarga.jfif" width="400"></a></p>
 
 <p align="center">
 <a href="#k"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
