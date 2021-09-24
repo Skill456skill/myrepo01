@@ -9,15 +9,7 @@
 </p>
 
 ## Acerca del Proyecto
-
-Maqueteación en HTML + CSS cargada como pruebas del proceso de formación.:
-
-- Maquetación
-- HTML
-- CSS
-- Carga a GIT
-
-
+Este es mi primer proyecto en GitHub
 
 ## License
 
