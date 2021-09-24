@@ -1,5 +1,5 @@
 
-<p align="center"><a href="#" target="_blank"><img src="/img/ddescarga.jfif" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://venturebeat.com/wp-content/uploads/2015/06/visual_studio_purple.png?fit=400%2C199&strip=all" width="400"></a></p>
 
 <p align="center">
 <a href="#k"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
