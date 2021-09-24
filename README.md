@@ -1,5 +1,5 @@
 
-<p align="center"><a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="200"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://e7.pngegg.com/pngimages/151/492/png-clipart-microsoft-visual-studio-visual-studio-code-team-foundation-server-visual-studio-application-lifecycle-management-microsoft-purple-violet.png" width="200"></a></p>
 
 <p align="center">
 <a href="#k"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
